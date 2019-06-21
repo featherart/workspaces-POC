@@ -1,0 +1,8 @@
+{
+  "name": "my-test-package",
+  "version": "1.0.0",
+  "description": "testing Yarn workspaces",
+  "main": "index.js",
+  "author": "Feather Knee",
+  "license": "MIT"
+}
