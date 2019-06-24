@@ -4,5 +4,7 @@
   "description": "testing Yarn workspaces",
   "main": "index.js",
   "author": "Feather Knee",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["workspaceA", "workspaceB"]
 }
